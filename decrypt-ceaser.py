@@ -5,6 +5,7 @@ import random
 
 #test change
 #test change 2
+# from command line
 
 def main():
     
